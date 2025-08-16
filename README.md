@@ -1,4 +1,4 @@
-# 🛍️ PHP eCommerce Website
+# 🛍️ PHP ECommerce Website
 
 This is a simple and responsive eCommerce website built with PHP, HTML, CSS, and MySQL. It features a shopping cart, user authentication, and admin product management.
 
